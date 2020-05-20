@@ -1,2 +1,2 @@
 sziasztok
-blabla
+blablavalami
